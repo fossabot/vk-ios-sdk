@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fvk-ios-sdk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fvk-ios-sdk?ref=badge_shield)
+
 vk-ios-sdk
 ==========
 
@@ -345,3 +347,7 @@ Let's go through the example step-by-step
 5) Check if you're running iOS 8 or upper. If user is using iPad, you have to present the activity controller in a popover otherwise you'll get system error
 
 6) Present the activity controller as usual
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fvk-ios-sdk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fvk-ios-sdk?ref=badge_large)
